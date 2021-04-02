@@ -1,0 +1,26 @@
+{
+    
+	"dateStart":"\"9999-31-12\"",
+	"dateEnd":"\"9999-31-12\"",
+	"indCaus":"\"JUNIT\"",
+	"indCaus1":"\"JUNIT\"",
+	"indCaus2":"\"JUNIT\"",
+	"impMinPos":"new BigDecimal(1000)",
+    "codErr":"\"JUNIT\"",
+    "descErr":"\"JUNIT\"",
+    "deprecation":"\"JUNIT\"",
+    "href":"\"JUNIT\"",
+    "hreflang":"\"JUNIT\"",
+    "media":"\"JUNIT\"",
+    "rel":"\"JUNIT\"",
+    "templated":"true",
+    "title":"\"JUNIT\"",
+    "type":"\"JUNIT\"",
+    "fieldName":"\"JUNIT\"",
+	"formName":"\"JUNIT\"",
+    "codMessErrore":"\"JUNIT\"",
+	"inRaggrCaus":"\"JUNIT\"",
+    "codErrApp":"\"JUNIT\"",
+	"codApplicazione":"\"JUNIT\"",
+    "desErrAppl":"\"JUNIT\""
+}

@@ -1,0 +1,6 @@
+{outputPackage}
+{staticImports}
+{otherImports}
+{setters}
+{assertions}
+{classToBeTested}
