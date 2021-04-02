@@ -3,7 +3,7 @@
 needs python 2.7+
 
 
-first of all change json_values.json to match fields that are in your classes
+first of all change field_values.json to match fields that are in your classes
 
 how to run: python test_gen.py [pathInput] [pathOutput] [PackageOutputName]
 
